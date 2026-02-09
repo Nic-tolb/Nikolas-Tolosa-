@@ -1,8 +1,8 @@
 # Hi 👋, I'm Georgy Nikolas Tolosa Blanco 
 
-### Estudiante de programación 
+### Programming student 
 
-- 🌱 I'm currently learning **Python básico y manejo de github**
+- 🌱 I'm currently learning **Basic Python and Git management**
 
 - 📫 How to reach me **nictolb03@gmail.com**
 
